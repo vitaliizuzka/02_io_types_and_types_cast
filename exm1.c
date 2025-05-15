@@ -7,7 +7,7 @@ main()
 	setlocale(LC_ALL, "rus"); 
 	int value1 = 7, value2 = 0;
 	//%d - формат вывода для целых чисел в десятичной сист счисл
-	printf("Значение value1 равно %d!\n", value1);
+	printf("Значение value1 равно %d!\n", value1); 
 	printf("%d - значение value1!\n", value1);
 	value2 = value1 / 3;// 7/3 -> 2 целая часть от деления
 	printf("value2 = %d!\n", value2);
