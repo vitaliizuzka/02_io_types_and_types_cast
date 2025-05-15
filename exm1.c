@@ -4,7 +4,7 @@
 
 main()
 {
-	setlocale(LC_ALL, "rus");
+	setlocale(LC_ALL, "rus"); 
 	int value1 = 7, value2 = 0;
 	//%d - формат вывода для целых чисел в десятичной сист счисл
 	printf("Значение value1 равно %d!\n", value1);
